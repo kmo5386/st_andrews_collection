@@ -21,4 +21,3 @@ The St. Andrew's congregation decided to part ways with the Episcopal Diocese an
 They continued to hold services in the building until 2013, at which point the building largely sat unused save for a few events held with the permission of the diocese that retained ownership of the building.
 In 2020, the building was deconsecrated after the new owner bought the building with the intention of repurposing it as a home and business space.
 The items you see here reflect the history of the building as it has moved from a religious to secular space in the community.
-{% include cb/about_the_about.md %} 
